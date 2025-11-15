@@ -33,6 +33,9 @@ Display certificates hosted on LinkedIn
 | **Git & GitHub**          | Version control & hosting                       |
 
 
+📌 Features
+✔ Modern UI
+
 Dark-glass theme
 
 Neon cyan glowing effects
