@@ -24,6 +24,8 @@ Allow recruiters to contact me
 Display certificates hosted on LinkedIn
 
 
+🛠️ Tech Stack Used
+
 | Technology                | Purpose                                         |
 | ------------------------- | ----------------------------------------------- |
 | **HTML5**                 | Structure of the portfolio                      |
@@ -34,6 +36,7 @@ Display certificates hosted on LinkedIn
 
 
 📌 Features
+
 ✔ Modern UI
 
 Dark-glass theme
