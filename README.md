@@ -23,15 +23,15 @@ Allow recruiters to contact me
 
 Display certificates hosted on LinkedIn
 
-🛠️ Tech Stack Used
-Technology	Purpose
-HTML5	Structure of the portfolio
-CSS3	Styling, gradients, animations, responsiveness
-JavaScript	Dynamic features (Read More modal, mobile menu)
-Devicon + FontAwesome	Icons for skills and technologies
-Git & GitHub	Version control & hosting
-📌 Features
-✔ Modern UI
+
+| Technology                | Purpose                                         |
+| ------------------------- | ----------------------------------------------- |
+| **HTML5**                 | Structure of the portfolio                      |
+| **CSS3**                  | Styling, gradients, animations, responsiveness  |
+| **JavaScript**            | Dynamic features (Read More modal, mobile menu) |
+| **Devicon + FontAwesome** | Icons for skills and technologies               |
+| **Git & GitHub**          | Version control & hosting                       |
+
 
 Dark-glass theme
 
